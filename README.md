@@ -17,7 +17,7 @@ Start.java - LOC "6" - metoda Expression treba da se promeni u expression.
 Start.java - LOC "8" - Sintaksna greška.
 Start.java - LOC "19" - Sintaksna greška.
 
-U fajlu Start.java su pronađene 4 nedoslednosti.
+U fajlu Start.java su pronađene 4 nedoslednosti(Snell bug).
 Sada prelazimo na fajl Calculator.java;
 
 Calculator.java - LOC "1" - fajl nije dodeljen u pravi paket.
@@ -27,3 +27,6 @@ Calculator.java - LOC "24" - preimenovati metodu
 Calculator.java - LOC "70" - Sintaksna greška 
 Calculator.java - LOC "74" - preimenovati metodu
 Calculator.java - LOC "183" - višak komande
+
+U Calculator.java fajlu pronađeno je ukupno 8 nedoslednosti (Smell Bug) 
+Što je ukupno na kraju 12 nedoslednsoti (Smell bug).
