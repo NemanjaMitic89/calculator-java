@@ -1,0 +1,47 @@
+Zadatak Testiranje.
+
+Prilikom sistemskog testiranja Calculatora došli smo do sledećeg zapažanja;
+
+1 Test sabiranje 
+2+5 = 7.0 
+Operacija sabiranja uspešno izvršena.
+
+2 Test oduzimanje
+8-5 = 3.0
+Operacija oduzimanja uspešno izvršena.
+
+3 Test množenja
+5*7 = 35.0
+Operacija množenja uspešno izvršena.
+
+4 Test deljenja 
+10/5 = 2
+Operacija deljenja uspešno izvršena.
+
+Pri korišćenu osnovinh operacija Calculator daje očekivane rezlutate. Sada ćemo izvršiti sve osnovne operacije sa 0.
+
+1 Test sabiranja
+0+10 = 10.0
+Operacija sabiranja sa 0 uspešno izvršena
+
+2 Test oduzimanja 
+0-15 = 15.0
+Operacija oduzimanja sa 0 uspešno izvršena.
+
+3 Test množenja
+0*25 = 0.0
+Operacija množenja sa 0 uspešno izvršena.
+
+4 Test deljenja 
+0/5 = 0
+Operacija deljenja sa 0 uspešno izvršena.
+
+Calculator daje očekivane rezlutate osnovnih operacija sa 0 brojem,
+
+Pri pokušaju korišćenja zagrada u Calculatoru, Calculator izbacuje Error
+Primer " 2*(5+5) = ERORR
+
+U složenim izrazima sa više operacija dobijaju se očekivani rezultati, poštuje se red račnskih operacija.
+Primer 2+9*6/2 = 29.0
+
+Pri unošenja komande exit Calculator ne prestaje sa radom ako se unese i dalje neka komanda Calculator će dati rezlutat.
